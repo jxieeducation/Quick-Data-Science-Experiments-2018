@@ -3,6 +3,10 @@
 ## To do
 * Self-Supervised Visual Planning with Temporal Skip Connections (https://arxiv.org/pdf/1710.05268.pdf)
 * missing values pomogranaete (https://github.com/jmschrei/pomegranate/blob/master/tutorials/Tutorial_9_Missing_Values.ipynb)
+* Improving the Sensitivity of Online Controlled Experiments by Utilizing Pre-Experiment Data (http://www.exp-platform.com/Documents/2013-02-CUPED-ImprovingSensitivityOfControlledExperiments.pdf)
+* stacking and stacknet (http://blog.kaggle.com/2017/06/15/stacking-made-easy-an-introduction-to-stacknet-by-competitions-grandmaster-marios-michailidis-kazanova/)
+* how adversarial attacks work (https://blog.xix.ai/how-adversarial-attacks-work-87495b81da2d)
+* tacotron: end to end text to speech (https://arxiv.org/pdf/1703.10135.pdf)
 
 ## To do courses
 * Deep RL Bootcamp (https://sites.google.com/view/deep-rl-bootcamp/lectures)
@@ -13,3 +17,6 @@
 ## Done
 * panopic segmentation (https://arxiv.org/pdf/1801.00868.pdf)
 * machine translation without the data (https://medium.com/@harshsayshi/machine-translation-without-the-data-21846fecc4c0)
+* On Calibration of Modern Neural Networks (https://arxiv.org/pdf/1706.04599.pdf)
+* Reducing the Variance of A/B Tests Using Prior Information (http://www.degeneratestate.org/posts/2018/Jan/04/reducing-the-variance-of-ab-test-using-prior-information/)
+
