@@ -7,6 +7,11 @@
 * stacking and stacknet (http://blog.kaggle.com/2017/06/15/stacking-made-easy-an-introduction-to-stacknet-by-competitions-grandmaster-marios-michailidis-kazanova/)
 * how adversarial attacks work (https://blog.xix.ai/how-adversarial-attacks-work-87495b81da2d)
 * tacotron: end to end text to speech (https://arxiv.org/pdf/1703.10135.pdf)
+* Generating Focussed Molecule Libraries for Drug Discovery with Recurrent Neural Networks (https://arxiv.org/pdf/1701.01329.pdf)
+* SeqGAN - sequence GAN with policy gradient (https://arxiv.org/pdf/1609.05473.pdf)
+* try out seqgan (https://github.com/LantaoYu/SeqGAN)
+* RDKIT biotech (https://github.com/rdkit/rdkit-tutorials/tree/master/notebooks)
+* generating music by fine tuning RNN with RL (https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45871.pdf)
 
 ## To do courses
 * Deep RL Bootcamp (https://sites.google.com/view/deep-rl-bootcamp/lectures)
@@ -19,4 +24,5 @@
 * machine translation without the data (https://medium.com/@harshsayshi/machine-translation-without-the-data-21846fecc4c0)
 * On Calibration of Modern Neural Networks (https://arxiv.org/pdf/1706.04599.pdf)
 * Reducing the Variance of A/B Tests Using Prior Information (http://www.degeneratestate.org/posts/2018/Jan/04/reducing-the-variance-of-ab-test-using-prior-information/)
+* Objective-Reinforced Generative Adversarial Networks (ORGAN) for Sequence Generation Models (https://arxiv.org/pdf/1705.10843.pdf)
 
