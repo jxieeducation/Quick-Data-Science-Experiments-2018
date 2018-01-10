@@ -12,6 +12,8 @@
 * try out seqgan (https://github.com/LantaoYu/SeqGAN)
 * RDKIT biotech (https://github.com/rdkit/rdkit-tutorials/tree/master/notebooks)
 * generating music by fine tuning RNN with RL (https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45871.pdf)
+* adversarial attack example (https://github.com/abhibhav14/adversarial-machine-learning)
+
 
 ## To do courses
 * Deep RL Bootcamp (https://sites.google.com/view/deep-rl-bootcamp/lectures)
@@ -25,4 +27,5 @@
 * On Calibration of Modern Neural Networks (https://arxiv.org/pdf/1706.04599.pdf)
 * Reducing the Variance of A/B Tests Using Prior Information (http://www.degeneratestate.org/posts/2018/Jan/04/reducing-the-variance-of-ab-test-using-prior-information/)
 * Objective-Reinforced Generative Adversarial Networks (ORGAN) for Sequence Generation Models (https://arxiv.org/pdf/1705.10843.pdf)
+* adversarial patch (sticker attacks) (https://arxiv.org/pdf/1712.09665.pdf)
 
