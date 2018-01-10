@@ -13,12 +13,17 @@
 * RDKIT biotech (https://github.com/rdkit/rdkit-tutorials/tree/master/notebooks)
 * generating music by fine tuning RNN with RL (https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45871.pdf)
 * adversarial attack example (https://github.com/abhibhav14/adversarial-machine-learning)
+* A Note on Inception Score (https://arxiv.org/pdf/1801.01973.pdf)
+* hierarchical and interpretable skill acquisition in multi-task reinforcement learning (https://einstein.ai/static/images/pages/research/hierarchical-reinforcement-learning/iclr2018_HRL.pdf)
+* Data Augmentation by Pairing Samples for Image Classification (https://arxiv.org/pdf/1801.02929.pdf)
+
 
 
 ## To do courses
 * Deep RL Bootcamp (https://sites.google.com/view/deep-rl-bootcamp/lectures)
 * cs224w social and information network (http://snap.stanford.edu/class/cs224w-2015/handouts.html)
 * probablistic graphical models (http://www.cs.cmu.edu/~epxing/Class/10708-17/lecture.html)
+
 
 
 ## Done
@@ -28,4 +33,4 @@
 * Reducing the Variance of A/B Tests Using Prior Information (http://www.degeneratestate.org/posts/2018/Jan/04/reducing-the-variance-of-ab-test-using-prior-information/)
 * Objective-Reinforced Generative Adversarial Networks (ORGAN) for Sequence Generation Models (https://arxiv.org/pdf/1705.10843.pdf)
 * adversarial patch (sticker attacks) (https://arxiv.org/pdf/1712.09665.pdf)
-
+* Ranking and Calibrating Click-Attributed Purchases in Performance Display Advertising (https://drive.google.com/file/d/0BwF-hgLDpCD6UTlYLXBZX1BwWHc/view)
