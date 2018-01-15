@@ -16,7 +16,8 @@
 * A Note on Inception Score (https://arxiv.org/pdf/1801.01973.pdf)
 * hierarchical and interpretable skill acquisition in multi-task reinforcement learning (https://einstein.ai/static/images/pages/research/hierarchical-reinforcement-learning/iclr2018_HRL.pdf)
 * Data Augmentation by Pairing Samples for Image Classification (https://arxiv.org/pdf/1801.02929.pdf)
-
+* try out pix2code (https://github.com/tonybeltramelli/pix2code)
+* Hypothesis tests for bernouille decisions (http://www.mdpi.com/1099-4300/19/12/696/htm)
 
 
 ## To do courses
@@ -34,3 +35,5 @@
 * Objective-Reinforced Generative Adversarial Networks (ORGAN) for Sequence Generation Models (https://arxiv.org/pdf/1705.10843.pdf)
 * adversarial patch (sticker attacks) (https://arxiv.org/pdf/1712.09665.pdf)
 * Ranking and Calibrating Click-Attributed Purchases in Performance Display Advertising (https://drive.google.com/file/d/0BwF-hgLDpCD6UTlYLXBZX1BwWHc/view)
+* pix2code Generating code from GUI screenshot (https://arxiv.org/pdf/1705.07962.pdf)
+
