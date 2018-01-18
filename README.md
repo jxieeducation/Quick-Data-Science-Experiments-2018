@@ -11,13 +11,15 @@
 * SeqGAN - sequence GAN with policy gradient (https://arxiv.org/pdf/1609.05473.pdf)
 * try out seqgan (https://github.com/LantaoYu/SeqGAN)
 * RDKIT biotech (https://github.com/rdkit/rdkit-tutorials/tree/master/notebooks)
-* generating music by fine tuning RNN with RL (https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45871.pdf)
 * adversarial attack example (https://github.com/abhibhav14/adversarial-machine-learning)
 * A Note on Inception Score (https://arxiv.org/pdf/1801.01973.pdf)
 * hierarchical and interpretable skill acquisition in multi-task reinforcement learning (https://einstein.ai/static/images/pages/research/hierarchical-reinforcement-learning/iclr2018_HRL.pdf)
 * Data Augmentation by Pairing Samples for Image Classification (https://arxiv.org/pdf/1801.02929.pdf)
 * try out pix2code (https://github.com/tonybeltramelli/pix2code)
 * Hypothesis tests for bernouille decisions (http://www.mdpi.com/1099-4300/19/12/696/htm)
+* CypherGAN (https://arxiv.org/pdf/1801.04883.pdf)
+* MINE: Mutual Information Neural Estimation (https://arxiv.org/pdf/1801.04062.pdf)
+* try out RL tuner RNN + RL (https://github.com/tensorflow/magenta-demos/blob/master/jupyter-notebooks/RL_Tuner.ipynb)
 
 
 ## To do courses
@@ -28,6 +30,7 @@
 
 
 ## Done
+* generating music by fine tuning RNN with RL (https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45871.pdf)
 * panopic segmentation (https://arxiv.org/pdf/1801.00868.pdf)
 * machine translation without the data (https://medium.com/@harshsayshi/machine-translation-without-the-data-21846fecc4c0)
 * On Calibration of Modern Neural Networks (https://arxiv.org/pdf/1706.04599.pdf)
