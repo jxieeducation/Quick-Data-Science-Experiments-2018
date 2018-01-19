@@ -21,6 +21,7 @@
 * try out RL tuner RNN + RL (https://github.com/tensorflow/magenta-demos/blob/master/jupyter-notebooks/RL_Tuner.ipynb)
 * ICML ML interpretability (http://people.csail.mit.edu/beenkim/papers/BeenK_FinaleDV_ICML2017_tutorial.pdf)
 * ICML Deep RL, Decision making (https://sites.google.com/view/icml17deeprl)
+* eCommerceGan (https://arxiv.org/pdf/1801.03244.pdf)
 
 
 ## To do courses
