@@ -1,6 +1,7 @@
 # Quick-Data-Science-Experiments-2018
 
 ## To do
+* locally weighted bagging (https://maxhalford.github.io/blog/locally-weighted-bagging/)
 * Self-Supervised Visual Planning with Temporal Skip Connections (https://arxiv.org/pdf/1710.05268.pdf)
 * missing values pomogranaete (https://github.com/jmschrei/pomegranate/blob/master/tutorials/Tutorial_9_Missing_Values.ipynb)
 * Improving the Sensitivity of Online Controlled Experiments by Utilizing Pre-Experiment Data (http://www.exp-platform.com/Documents/2013-02-CUPED-ImprovingSensitivityOfControlledExperiments.pdf)
