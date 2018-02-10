@@ -1,6 +1,7 @@
 # Quick-Data-Science-Experiments-2018
 
 ## To do
+* Efficiently Trainable Text-to-Speech System Based on Deep Convolutional Networks with Guided Attention (https://arxiv.org/abs/1710.08969)
 * locally weighted bagging (https://maxhalford.github.io/blog/locally-weighted-bagging/)
 * Self-Supervised Visual Planning with Temporal Skip Connections (https://arxiv.org/pdf/1710.05268.pdf)
 * missing values pomogranaete (https://github.com/jmschrei/pomegranate/blob/master/tutorials/Tutorial_9_Missing_Values.ipynb)
@@ -23,6 +24,9 @@
 * ICML ML interpretability (http://people.csail.mit.edu/beenkim/papers/BeenK_FinaleDV_ICML2017_tutorial.pdf)
 * ICML Deep RL, Decision making (https://sites.google.com/view/icml17deeprl)
 * eCommerceGan (https://arxiv.org/pdf/1801.03244.pdf)
+* why not AUC (https://lukeoakdenrayner.wordpress.com/2018/01/07/the-philosophical-argument-for-using-roc-curves/)
+* WGAN math (https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
+* Attention is all you need - Transformer(https://arxiv.org/pdf/1706.03762.pdf)
 
 
 ## To do courses
@@ -43,4 +47,6 @@
 * Ranking and Calibrating Click-Attributed Purchases in Performance Display Advertising (https://drive.google.com/file/d/0BwF-hgLDpCD6UTlYLXBZX1BwWHc/view)
 * pix2code Generating code from GUI screenshot (https://arxiv.org/pdf/1705.07962.pdf)
 * hierarchical and interpretable skill acquisition in multi-task reinforcement learning (https://einstein.ai/static/images/pages/research/hierarchical-reinforcement-learning/iclr2018_HRL.pdf)
+* Learning meaningful location embeddings from unlabeled visits (http://www.sentiance.com/2018/01/29/learning-meaningful-location-embeddings-from-unlabeled-visits/)
+* Generating Wikipedia by Summarizing Long Sequences (https://arxiv.org/pdf/1801.10198.pdf)
 
