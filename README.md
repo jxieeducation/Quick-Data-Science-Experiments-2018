@@ -27,6 +27,7 @@
 * why not AUC (https://lukeoakdenrayner.wordpress.com/2018/01/07/the-philosophical-argument-for-using-roc-curves/)
 * WGAN math (https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
 * Attention is all you need - Transformer(https://arxiv.org/pdf/1706.03762.pdf)
+* Expolatory factor analysis (https://www.let.rug.nl/nerbonne/teach/rema-stats-meth-seminar/Factor-Analysis-Kootstra-04.PDF)
 
 
 ## To do courses
