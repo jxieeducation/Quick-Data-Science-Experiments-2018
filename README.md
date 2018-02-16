@@ -50,4 +50,4 @@
 * hierarchical and interpretable skill acquisition in multi-task reinforcement learning (https://einstein.ai/static/images/pages/research/hierarchical-reinforcement-learning/iclr2018_HRL.pdf)
 * Learning meaningful location embeddings from unlabeled visits (http://www.sentiance.com/2018/01/29/learning-meaningful-location-embeddings-from-unlabeled-visits/)
 * Generating Wikipedia by Summarizing Long Sequences (https://arxiv.org/pdf/1801.10198.pdf)
-
+* shrinkage covariance (http://www.ledoit.net/honey.pdf)
