@@ -28,6 +28,7 @@
 * WGAN math (https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
 * Attention is all you need - Transformer(https://arxiv.org/pdf/1706.03762.pdf)
 * Expolatory factor analysis (https://www.let.rug.nl/nerbonne/teach/rema-stats-meth-seminar/Factor-Analysis-Kootstra-04.PDF)
+* fairness in ML (http://mrtz.org/nips17/#/)
 
 
 ## To do courses
@@ -51,3 +52,4 @@
 * Learning meaningful location embeddings from unlabeled visits (http://www.sentiance.com/2018/01/29/learning-meaningful-location-embeddings-from-unlabeled-visits/)
 * Generating Wikipedia by Summarizing Long Sequences (https://arxiv.org/pdf/1801.10198.pdf)
 * shrinkage covariance (http://www.ledoit.net/honey.pdf)
+* skewed sample feedback loop
