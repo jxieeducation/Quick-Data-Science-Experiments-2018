@@ -53,3 +53,4 @@
 * Generating Wikipedia by Summarizing Long Sequences (https://arxiv.org/pdf/1801.10198.pdf)
 * shrinkage covariance (http://www.ledoit.net/honey.pdf)
 * skewed sample feedback loop
+* Intrinsically motivated self-aware agents (https://arxiv.org/pdf/1802.07442.pdf)
