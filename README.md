@@ -54,3 +54,4 @@
 * shrinkage covariance (http://www.ledoit.net/honey.pdf)
 * skewed sample feedback loop
 * Intrinsically motivated self-aware agents (https://arxiv.org/pdf/1802.07442.pdf)
+* GAN mode collapse by sampling from latent space (https://www.exptechinc.com/2018/02/fighting-gan-mode-collapse-by-randomly-sampling-the-latent-space/)
