@@ -30,6 +30,7 @@
 * Expolatory factor analysis (https://www.let.rug.nl/nerbonne/teach/rema-stats-meth-seminar/Factor-Analysis-Kootstra-04.PDF)
 * fairness in ML (http://mrtz.org/nips17/#/)
 * Partially Observable MDP (https://www.cs.cmu.edu/~ggordon/780-fall07/lectures/POMDP_lecture.pdf)
+* AliMe Chat: A Sequence to Sequence and Rerank based Chatbot Engine (http://www.aclweb.org/anthology/P17-2079)
 
 
 ## To do courses
