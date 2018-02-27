@@ -29,6 +29,7 @@
 * Attention is all you need - Transformer(https://arxiv.org/pdf/1706.03762.pdf)
 * Expolatory factor analysis (https://www.let.rug.nl/nerbonne/teach/rema-stats-meth-seminar/Factor-Analysis-Kootstra-04.PDF)
 * fairness in ML (http://mrtz.org/nips17/#/)
+* Partially Observable MDP (https://www.cs.cmu.edu/~ggordon/780-fall07/lectures/POMDP_lecture.pdf)
 
 
 ## To do courses
