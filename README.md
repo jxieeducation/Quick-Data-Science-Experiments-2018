@@ -58,3 +58,6 @@
 * Intrinsically motivated self-aware agents (https://arxiv.org/pdf/1802.07442.pdf)
 * GAN mode collapse by sampling from latent space (https://www.exptechinc.com/2018/02/fighting-gan-mode-collapse-by-randomly-sampling-the-latent-space/)
 * Stochastic Hyperparameter Optimization through Hypernetworks (https://arxiv.org/pdf/1802.09419.pdf)
+* Multi Armed Bandits and Exploration Strategies (https://sudeepraja.github.io/Bandits/)
+
+
