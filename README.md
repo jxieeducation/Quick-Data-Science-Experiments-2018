@@ -59,4 +59,4 @@
 * Stochastic Hyperparameter Optimization through Hypernetworks (https://arxiv.org/pdf/1802.09419.pdf)
 * Multi Armed Bandits and Exploration Strategies (https://sudeepraja.github.io/Bandits/)
 * Variance networks (https://arxiv.org/pdf/1803.03764.pdf)
-
+* deep quantile network (https://towardsdatascience.com/deep-quantile-regression-c85481548b5a)
