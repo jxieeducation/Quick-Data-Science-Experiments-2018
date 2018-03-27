@@ -60,3 +60,4 @@
 * Multi Armed Bandits and Exploration Strategies (https://sudeepraja.github.io/Bandits/)
 * Variance networks (https://arxiv.org/pdf/1803.03764.pdf)
 * deep quantile network (https://towardsdatascience.com/deep-quantile-regression-c85481548b5a)
+* Explanation Methods in Deep Learning (https://arxiv.org/pdf/1803.07517.pdf)
