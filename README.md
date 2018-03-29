@@ -33,6 +33,7 @@
 
 
 ## To do courses
+* cs231 stanford deep learning (http://cs231n.stanford.edu/slides/2016/)
 * Deep RL Bootcamp (https://sites.google.com/view/deep-rl-bootcamp/lectures)
 * cs224w social and information network (http://snap.stanford.edu/class/cs224w-2015/handouts.html)
 * probablistic graphical models (http://www.cs.cmu.edu/~epxing/Class/10708-17/lecture.html)
