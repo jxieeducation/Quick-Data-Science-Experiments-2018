@@ -62,3 +62,4 @@
 * Variance networks (https://arxiv.org/pdf/1803.03764.pdf)
 * deep quantile network (https://towardsdatascience.com/deep-quantile-regression-c85481548b5a)
 * Explanation Methods in Deep Learning (https://arxiv.org/pdf/1803.07517.pdf)
+* deep learning and security (https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class12_security.ipynb)
