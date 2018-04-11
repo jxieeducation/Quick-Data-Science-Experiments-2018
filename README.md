@@ -1,6 +1,7 @@
 # Quick-Data-Science-Experiments-2018
 
 ## To do
+* CTR prediction for online learning (https://courses.cs.washington.edu/courses/cse599s/14sp/scribes/lecture20/lecture20_draft.pdf)
 * Efficiently Trainable Text-to-Speech System Based on Deep Convolutional Networks with Guided Attention (https://arxiv.org/abs/1710.08969)
 * locally weighted bagging (https://maxhalford.github.io/blog/locally-weighted-bagging/)
 * Self-Supervised Visual Planning with Temporal Skip Connections (https://arxiv.org/pdf/1710.05268.pdf)
@@ -35,7 +36,6 @@
 ## To do courses
 * cs231 stanford deep learning (http://cs231n.stanford.edu/slides/2016/)
 * Deep RL Bootcamp (https://sites.google.com/view/deep-rl-bootcamp/lectures)
-* cs224w social and information network (http://snap.stanford.edu/class/cs224w-2015/handouts.html)
 * probablistic graphical models (http://www.cs.cmu.edu/~epxing/Class/10708-17/lecture.html)
 
 
