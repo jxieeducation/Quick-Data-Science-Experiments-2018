@@ -11,7 +11,6 @@
 * how adversarial attacks work (https://blog.xix.ai/how-adversarial-attacks-work-87495b81da2d)
 * tacotron: end to end text to speech (https://arxiv.org/pdf/1703.10135.pdf)
 * Generating Focussed Molecule Libraries for Drug Discovery with Recurrent Neural Networks (https://arxiv.org/pdf/1701.01329.pdf)
-* SeqGAN - sequence GAN with policy gradient (https://arxiv.org/pdf/1609.05473.pdf)
 * try out seqgan (https://github.com/LantaoYu/SeqGAN)
 * RDKIT biotech (https://github.com/rdkit/rdkit-tutorials/tree/master/notebooks)
 * adversarial attack example (https://github.com/abhibhav14/adversarial-machine-learning)
