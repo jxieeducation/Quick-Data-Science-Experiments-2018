@@ -2,7 +2,6 @@
 
 ## To do
 * CTR prediction for online learning (https://courses.cs.washington.edu/courses/cse599s/14sp/scribes/lecture20/lecture20_draft.pdf)
-* Efficiently Trainable Text-to-Speech System Based on Deep Convolutional Networks with Guided Attention (https://arxiv.org/abs/1710.08969)
 * locally weighted bagging (https://maxhalford.github.io/blog/locally-weighted-bagging/)
 * Self-Supervised Visual Planning with Temporal Skip Connections (https://arxiv.org/pdf/1710.05268.pdf)
 * missing values pomogranaete (https://github.com/jmschrei/pomegranate/blob/master/tutorials/Tutorial_9_Missing_Values.ipynb)
