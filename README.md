@@ -2,7 +2,6 @@
 
 ## To do
 * CTR prediction for online learning (https://courses.cs.washington.edu/courses/cse599s/14sp/scribes/lecture20/lecture20_draft.pdf)
-* Efficiently Trainable Text-to-Speech System Based on Deep Convolutional Networks with Guided Attention (https://arxiv.org/abs/1710.08969)
 * locally weighted bagging (https://maxhalford.github.io/blog/locally-weighted-bagging/)
 * Self-Supervised Visual Planning with Temporal Skip Connections (https://arxiv.org/pdf/1710.05268.pdf)
 * missing values pomogranaete (https://github.com/jmschrei/pomegranate/blob/master/tutorials/Tutorial_9_Missing_Values.ipynb)
@@ -11,7 +10,6 @@
 * how adversarial attacks work (https://blog.xix.ai/how-adversarial-attacks-work-87495b81da2d)
 * tacotron: end to end text to speech (https://arxiv.org/pdf/1703.10135.pdf)
 * Generating Focussed Molecule Libraries for Drug Discovery with Recurrent Neural Networks (https://arxiv.org/pdf/1701.01329.pdf)
-* SeqGAN - sequence GAN with policy gradient (https://arxiv.org/pdf/1609.05473.pdf)
 * try out seqgan (https://github.com/LantaoYu/SeqGAN)
 * RDKIT biotech (https://github.com/rdkit/rdkit-tutorials/tree/master/notebooks)
 * adversarial attack example (https://github.com/abhibhav14/adversarial-machine-learning)
