@@ -13,7 +13,6 @@
 * try out seqgan (https://github.com/LantaoYu/SeqGAN)
 * RDKIT biotech (https://github.com/rdkit/rdkit-tutorials/tree/master/notebooks)
 * adversarial attack example (https://github.com/abhibhav14/adversarial-machine-learning)
-* A Note on Inception Score (https://arxiv.org/pdf/1801.01973.pdf)
 * Data Augmentation by Pairing Samples for Image Classification (https://arxiv.org/pdf/1801.02929.pdf)
 * try out pix2code (https://github.com/tonybeltramelli/pix2code)
 * Hypothesis tests for bernouille decisions (http://www.mdpi.com/1099-4300/19/12/696/htm)
