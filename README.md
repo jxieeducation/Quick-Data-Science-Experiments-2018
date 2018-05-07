@@ -27,7 +27,7 @@
 * fairness in ML (http://mrtz.org/nips17/#/)
 * Partially Observable MDP (https://www.cs.cmu.edu/~ggordon/780-fall07/lectures/POMDP_lecture.pdf)
 * AliMe Chat: A Sequence to Sequence and Rerank based Chatbot Engine (http://www.aclweb.org/anthology/P17-2079)
-
+* https://databricks.com/blog/2017/04/26/processing-data-in-apache-kafka-with-structured-streaming-in-apache-spark-2-2.html
 
 ## To do courses
 * cs231 stanford deep learning (http://cs231n.stanford.edu/slides/2016/)
