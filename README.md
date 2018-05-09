@@ -61,3 +61,5 @@
 * deep learning and security (https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class12_security.ipynb)
 * Combining Powers of Two Predictors in Optimizing Real-Time Bidding Strategy under Constrained Budget (http://wnzhang.net/share/rtb-papers/two-pred-bid.pdf)
 * RUSBoost (http://sci2s.ugr.es/keel/pdf/algorithm/articulo/2010-IEEE%20TSMCpartA-RUSBoost%20A%20Hybrid%20Approach%20to%20Alleviating%20Class%20Imbalance.pdf)
+* kafka setup(https://community.cloudera.com/t5/Data-Ingestion-Integration/No-brokers-found-in-ZK/td-p/40952)
+
