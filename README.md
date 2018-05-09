@@ -27,6 +27,7 @@
 * Partially Observable MDP (https://www.cs.cmu.edu/~ggordon/780-fall07/lectures/POMDP_lecture.pdf)
 * AliMe Chat: A Sequence to Sequence and Rerank based Chatbot Engine (http://www.aclweb.org/anthology/P17-2079)
 * https://databricks.com/blog/2017/04/26/processing-data-in-apache-kafka-with-structured-streaming-in-apache-spark-2-2.html
+* why I have lost faith in p-values (https://lucklab.ucdavis.edu/blog/2018/4/19/why-i-lost-faith-in-p-values)
 
 ## To do courses
 * cs231 stanford deep learning (http://cs231n.stanford.edu/slides/2016/)
@@ -59,3 +60,4 @@
 * Explanation Methods in Deep Learning (https://arxiv.org/pdf/1803.07517.pdf)
 * deep learning and security (https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class12_security.ipynb)
 * Combining Powers of Two Predictors in Optimizing Real-Time Bidding Strategy under Constrained Budget (http://wnzhang.net/share/rtb-papers/two-pred-bid.pdf)
+* RUSBoost (http://sci2s.ugr.es/keel/pdf/algorithm/articulo/2010-IEEE%20TSMCpartA-RUSBoost%20A%20Hybrid%20Approach%20to%20Alleviating%20Class%20Imbalance.pdf)
