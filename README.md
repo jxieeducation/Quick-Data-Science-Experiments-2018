@@ -28,6 +28,7 @@
 * AliMe Chat: A Sequence to Sequence and Rerank based Chatbot Engine (http://www.aclweb.org/anthology/P17-2079)
 * https://databricks.com/blog/2017/04/26/processing-data-in-apache-kafka-with-structured-streaming-in-apache-spark-2-2.html
 * why I have lost faith in p-values (https://lucklab.ucdavis.edu/blog/2018/4/19/why-i-lost-faith-in-p-values)
+* Kubeflows (https://github.com/Azure/kubeflow-labs)
 
 ## To do courses
 * cs231 stanford deep learning (http://cs231n.stanford.edu/slides/2016/)
