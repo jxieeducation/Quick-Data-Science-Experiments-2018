@@ -1,6 +1,8 @@
 # Quick-Data-Science-Experiments-2018
 
 ## To do
+* RPA (https://github.com/topics/rpa)
+* ML for cyber (https://github.com/wtsxDev/Machine-Learning-for-Cyber-Security)
 * CTR prediction for online learning (https://courses.cs.washington.edu/courses/cse599s/14sp/scribes/lecture20/lecture20_draft.pdf)
 * locally weighted bagging (https://maxhalford.github.io/blog/locally-weighted-bagging/)
 * Self-Supervised Visual Planning with Temporal Skip Connections (https://arxiv.org/pdf/1710.05268.pdf)
@@ -64,4 +66,4 @@
 * RUSBoost (http://sci2s.ugr.es/keel/pdf/algorithm/articulo/2010-IEEE%20TSMCpartA-RUSBoost%20A%20Hybrid%20Approach%20to%20Alleviating%20Class%20Imbalance.pdf)
 * kafka setup(https://community.cloudera.com/t5/Data-Ingestion-Integration/No-brokers-found-in-ZK/td-p/40952)
 * Duplex (https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html)
-
+* Hierarchical Neural Story Generation (https://arxiv.org/pdf/1805.04833v1.pdf)
